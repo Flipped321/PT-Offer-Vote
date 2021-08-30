@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         PT-Offer-Vote
 // @namespace    http://tampermonkey.net/
-// @version      0.3.0
+// @version      0.4.0
 // @description  主要用于PT站的候选投票
 // @author       67373fafa
 // @icon         https://www.google.com/s2/favicons?domain=chdbits.co
