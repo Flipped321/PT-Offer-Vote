@@ -3,7 +3,7 @@
 // @namespace    http://tampermonkey.net/
 // @version      0.3.0
 // @description  主要用于PT站的候选投票
-// @author       Flipped
+// @author       67373fafa
 // @icon         https://www.google.com/s2/favicons?domain=chdbits.co
 // @grant        none
 // @updateUrl    https://github.com/Flipped321/PT-Offer-Vote/blob/master/pt-offer-vote.js
